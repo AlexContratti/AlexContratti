@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @AlexContratti
-- 💻 2nd-Year CS @ Georgia Tech (Expected Dec 2024)
+- 💻 3rd-Year CS @ Georgia Tech w/ Systems Architecture/Information Internetworks threads (Expected May 2025)
 
 <!---
 AlexContratti/AlexContratti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
